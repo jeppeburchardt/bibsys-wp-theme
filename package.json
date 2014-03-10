@@ -1,0 +1,18 @@
+{
+  "name": "bibsys-wp-theme",
+  "version": "0.0.0",
+  "description": "Wordpress theme for bibliotekssystemet.dk",
+  "scripts": {
+    "test": "test",
+    "grunt": "node node_modules/grunt-cli/bin/grunt"
+  },
+  "author": "Jeppe Burchardt",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.13",
+    "grunt-zip": "~0.13.0",
+    "grunt-contrib-less": "~0.10.0",
+    "grunt-banner": "~0.2.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
