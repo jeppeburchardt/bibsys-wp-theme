@@ -15,5 +15,6 @@ npm-debug.log
 node_modules
 
 bin/*
+src/test.html
 
 .DS_Store
